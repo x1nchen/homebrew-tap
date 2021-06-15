@@ -3,7 +3,7 @@ class PortainerCli < Formula
   homepage "https://github.com/x1nchen/portainer-cli"
   url "https://github.com/x1nchen/portainer-cli/releases/download/v0.0.18/portainer-cli_0.0.18_darwin_amd64.tar.gz"
   version "0.0.18"
-  sha256 "01949b544dcf941ec0d3149ce323107477fa7a829bc0cc0c7db260029268615f"
+  sha256 "5c7c354bbc234f788e9788373be7e922eb6f74a1ef0d256bbbb1b1143fbbf13a"
 
   def install
     bin.install "portainer-cli"
